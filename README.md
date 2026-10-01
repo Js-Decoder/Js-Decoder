@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning many things<br>⚡Stay and build for the best
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning many things
 
 
 ## 🌐 Socials:
