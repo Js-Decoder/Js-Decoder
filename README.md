@@ -1,4 +1,4 @@
-<p style="color: #9A0000;">💫 About Me:</p>
+<p style="color: #9A0000; font-size:50px;">💫 About Me:</p>
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning many things
 
 
