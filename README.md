@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning many things
 
 
