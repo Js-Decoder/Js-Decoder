@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-Want to learn
+ </br> Want to learn
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@ Want to learn
 
 
 #### JS Framework/Library
-Want to learn
+ </br> Want to learn
 ![Redux](https://img.shields.io/badge/redux-000.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
@@ -44,7 +44,7 @@ Want to learn
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 
 #### CSS Framework/Library/Pre-processors
-Want to learn
+ </br> Want to learn
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
@@ -52,7 +52,7 @@ Want to learn
 
 
 #### Backend
-Want to learn
+ </br> Want to learn
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
