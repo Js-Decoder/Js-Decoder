@@ -147,8 +147,6 @@ Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SH
 ![Rust](https://img.shields.io/badge/rust-000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
 #### JS Framework/Library
 
 #### JS Framework/Library Want to learn
@@ -172,6 +170,7 @@ Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SH
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
