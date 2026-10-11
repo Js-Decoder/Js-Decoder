@@ -145,7 +145,7 @@ Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SH
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-00.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### JS Framework/Library
@@ -165,12 +165,12 @@ Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SH
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Redux](https://img.shields.io/badge/redux-000.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
@@ -190,6 +190,12 @@ Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SH
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+#### Other
+![Cisco](https://img.shields.io/badge/cisco-000.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000?style=for-the-badge&logo=Raspberry-Pi)
 
 ## Current GitHub Stats 📊
 ![](https://github-readme-stats.shion.dev/api?username=Js-Decoder&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
