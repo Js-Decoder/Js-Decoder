@@ -25,10 +25,37 @@
 ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+Want to learn
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 #### JS Framework/Library
+Want to learn
+![Redux](https://img.shields.io/badge/redux-000.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
+![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 
 #### CSS Framework/Library/Pre-processors
+Want to learn
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+
+
+#### Backend
+Want to learn
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -54,35 +81,6 @@
 ![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000?style=for-the-badge&logo=Raspberry-Pi)
-
-#### Languages  Want to learn
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Backend Want to learn
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
-
-#### CSS Framework/Library/Pre-processors Want to learn
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![Redux](https://img.shields.io/badge/redux-000.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-#### JS Framework/Library Want to learn
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
-![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)
 
 ## Current GitHub Stats 📊
 ![](https://github-readme-stats.shion.dev/api?username=Js-Decoder&theme=react&hide_border=false&include_all_commits=true&count_private=true)
