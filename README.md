@@ -144,8 +144,10 @@ Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SH
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-000.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-00.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 #### JS Framework/Library
 
