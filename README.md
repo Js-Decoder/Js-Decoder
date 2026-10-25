@@ -20,9 +20,9 @@
 This project is about AI and its tools, It did not use any frameworks or libraries, but was written with raw CSS and JavaScript.
 This is an open source project that I created for resume and repo is available on [GitHub](https://github.com/Js-Decoder/AI-Smart-Portfolio)
 
-### <img src="" width="16px" />  رستوران های زنجیره ای ترخینه (Persian language based project)
-
-این یک پرژه متن باز است که برای رزومه سازی نوشته شده و کد های آن دسترس است در [GitHub](https://github.com/Js-Decoder/AI-Smart-Portfolio)
+### <img src="" width="16px" />  ترخینه | وبسایت سفارش غذا (Persian language based project)
+این یک پروژه طراحی رابط سفارش غذا بصورت آنلاین برای رستوران‌های زنجیره‌ای ترخینه است که توسط سه طراح رابط کاربری ایرانی ساخته شده و توسط من به عنوان پروژه ای برای تقویت رزومه نوشته خواهد شد
+این یک پرژه متن باز است و کد های آن دسترس است در [GitHub](https://github.com/Js-Decoder/Tarkhineh_Food-ordering-Website)
 
 <p align=""> working on few more projects 😉 </p>
 
@@ -33,6 +33,7 @@ This is an open source project that I created for resume and repo is available o
 ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 <!-- </br> Want to learn
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
