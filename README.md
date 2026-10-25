@@ -4,21 +4,28 @@
 </h1>
 <p align="center">🔭 I’m currently working on personal projects</p>
 <p align="center">🌱 I’m currently learning many things</p>
-<p align="center">
- 
-<a href="https://linkedin.com/in/js-decoder" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" id="linkedin-bug-blue-medium" width="34" height="34" aria-hidden="false" data-supported-dps="34x34" viewBox="0 0 34 34" data-token-id="417" class="l4jlrx l4jikq l4jaxz l4jgu7 l4jl4i" componentkey="672be7bd-a54e-4c3b-afe5-3e29a5484425" role="img" aria-label="LinkedIn" style="width: 34px; min-width: 34px; height: 34px; min-height: 34px;"><path fill="#0a66c2" d="M34 2.5v29a2.5 2.5 0 0 1-2.5 2.5h-29A2.5 2.5 0 0 1 0 31.5v-29A2.5 2.5 0 0 1 2.5 0h29A2.5 2.5 0 0 1 34 2.5M10 13H5v16h5zm.45-5.5a2.88 2.88 0 0 0-2.86-2.9H7.5a2.9 2.9 0 0 0 0 5.8 2.88 2.88 0 0 0 2.95-2.81zM29 19.28c0-4.81-3.06-6.68-6.1-6.68a5.7 5.7 0 0 0-5.06 2.58h-.14V13H13v16h5v-8.51a3.32 3.32 0 0 1 3-3.58h.19c1.59 0 2.77 1 2.77 3.52V29h5z" display="var(--svgDisplayLight)"></path><path fill="#fff" d="M34 2.5v29a2.5 2.5 0 0 1-2.5 2.5h-29A2.5 2.5 0 0 1 0 31.5v-29A2.5 2.5 0 0 1 2.5 0h29A2.5 2.5 0 0 1 34 2.5M10 13H5v16h5zm.45-5.5a2.88 2.88 0 0 0-2.86-2.9H7.5a2.9 2.9 0 0 0 0 5.8 2.88 2.88 0 0 0 2.95-2.81zM29 19.28c0-4.81-3.06-6.68-6.1-6.68a5.7 5.7 0 0 0-5.06 2.58h-.14V13H13v16h5v-8.51a3.32 3.32 0 0 1 3-3.58h.19c1.59 0 2.77 1 2.77 3.52V29h5z" display="var(--svgDisplayDark)"></path></svg></a>
-<a href="https://instagram.com/js.decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="" style="vertical-align:center" /></a></p>
 
-<!--
+
+<p align="center">
+<a href="https://linkedin.com/in/js-decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/js.decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="" style="vertical-align:center" /></a>
+</p>
+
+
 ## Creation 👨‍💻
 
-### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
-[Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open source project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
+### <img src="https://github.com/Js-Decoder/AI-Smart-Portfolio/blob/main/Assets/Images/Image.png?raw=true" width="16px" />  AI Smart Portfolio ()
+This project is about AI and its tools, It did not use any frameworks or libraries, but was written with raw CSS and JavaScript.
+This is an open source project that I created for resume and repo is available on [GitHub](https://github.com/Js-Decoder/AI-Smart-Portfolio)
 
-<p align="right">
-.. working on few more projects 😉 </p>
- -->
+### <img src="" width="16px" />  رستوران های زنجیره ای ترخینه (Persian language based project)
+
+این یک پرژه متن باز است که برای رزومه سازی نوشته شده و کد های آن دسترس است در [GitHub](https://github.com/Js-Decoder/AI-Smart-Portfolio)
+
+<p align=""> working on few more projects 😉 </p>
+
 
 ## Tech Stack 💻
 #### Languages
