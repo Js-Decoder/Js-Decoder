@@ -16,15 +16,14 @@
 
 ## Creation 👨‍💻
 
-### <img src="https://github.com/Js-Decoder/AI-Smart-Portfolio/blob/main/Assets/Images/Image.png?raw=true" width="16px" />  AI Smart Portfolio ()
+### <img src="https://raw.githubusercontent.com/Js-Decoder/AI-Smart-Portfolio/refs/heads/main/Assets/Icon/Logo2.png" width="45px" alt="Logo"/>  AI Smart Portfolio 
 This project is about AI and its tools, It did not use any frameworks or libraries, but was written with raw CSS and JavaScript.
 This is an open source project that I created for resume and repo is available on [GitHub](https://github.com/Js-Decoder/AI-Smart-Portfolio)
 
-### <img src="" width="16px" />  ترخینه | وبسایت سفارش غذا (Persian language based project)
+### <img src="https://raw.githubusercontent.com/Js-Decoder/Tarkhineh_Food-ordering-Website/refs/heads/main/Assets/Icon/Vector.png" width="45px" alt="Logo"/>  ترخینه | وبسایت سفارش غذا (Persian language based project)
 این یک پروژه طراحی رابط سفارش غذا بصورت آنلاین برای رستوران‌های زنجیره‌ای ترخینه است که توسط سه طراح رابط کاربری ایرانی ساخته شده و توسط من به عنوان پروژه ای برای تقویت رزومه نوشته خواهد شد
 این یک پرژه متن باز است و کد های آن دسترس است در [GitHub](https://github.com/Js-Decoder/Tarkhineh_Food-ordering-Website)
 
-<p align=""> working on few more projects 😉 </p>
 
 
 ## Tech Stack 💻
