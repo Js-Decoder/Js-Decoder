@@ -1,19 +1,15 @@
 
-<head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=mail" />
-</head>
+
 <h1 align="center"> Hi 👋🏻, I'm JS Decoder </br> 
 </h1>
 <p align="center">🔭 I’m currently working on personal projects</p>
 <p align="center">🌱 I’m currently learning many things</p>
 <p align="center">
  
-<a href="https://linkedin.com/in/js-decoder" target="_blank"><img alt="" src="" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/js-decoder" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" id="linkedin-bug-blue-medium" width="34" height="34" aria-hidden="false" data-supported-dps="34x34" viewBox="0 0 34 34" data-token-id="417" class="l4jlrx l4jikq l4jaxz l4jgu7 l4jl4i" componentkey="672be7bd-a54e-4c3b-afe5-3e29a5484425" role="img" aria-label="LinkedIn" style="width: 34px; min-width: 34px; height: 34px; min-height: 34px;"><path fill="#0a66c2" d="M34 2.5v29a2.5 2.5 0 0 1-2.5 2.5h-29A2.5 2.5 0 0 1 0 31.5v-29A2.5 2.5 0 0 1 2.5 0h29A2.5 2.5 0 0 1 34 2.5M10 13H5v16h5zm.45-5.5a2.88 2.88 0 0 0-2.86-2.9H7.5a2.9 2.9 0 0 0 0 5.8 2.88 2.88 0 0 0 2.95-2.81zM29 19.28c0-4.81-3.06-6.68-6.1-6.68a5.7 5.7 0 0 0-5.06 2.58h-.14V13H13v16h5v-8.51a3.32 3.32 0 0 1 3-3.58h.19c1.59 0 2.77 1 2.77 3.52V29h5z" display="var(--svgDisplayLight)"></path><path fill="#fff" d="M34 2.5v29a2.5 2.5 0 0 1-2.5 2.5h-29A2.5 2.5 0 0 1 0 31.5v-29A2.5 2.5 0 0 1 2.5 0h29A2.5 2.5 0 0 1 34 2.5M10 13H5v16h5zm.45-5.5a2.88 2.88 0 0 0-2.86-2.9H7.5a2.9 2.9 0 0 0 0 5.8 2.88 2.88 0 0 0 2.95-2.81zM29 19.28c0-4.81-3.06-6.68-6.1-6.68a5.7 5.7 0 0 0-5.06 2.58h-.14V13H13v16h5v-8.51a3.32 3.32 0 0 1 3-3.58h.19c1.59 0 2.77 1 2.77 3.52V29h5z" display="var(--svgDisplayDark)"></path></svg></a>
 <a href="https://instagram.com/js.decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=mail" style="vertical-align:center" /></a></p>
-<span class="material-symbols-outlined">
-mail
-</span>
+<a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="" style="vertical-align:center" /></a></p>
+
 <!--
 ## Creation 👨‍💻
 
