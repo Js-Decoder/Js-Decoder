@@ -6,10 +6,10 @@
 <p align="center">🌱 I’m currently learning many things</p>
 <p align="center">
  
-<a href="https://linkedin.com/in/js-decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/js-decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin" style="vertical-align:center" /></a>
 <a href="https://instagram.com/js.decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="vertical-align:center" /></a></p>
-[![email]()](mailto:js.decoder@outlook.com) 
+<a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="" style="vertical-align:center" /></a></p>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:js.decoder@outlook.com) 
 <!--
 ## Creation 👨‍💻
 
