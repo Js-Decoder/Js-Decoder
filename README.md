@@ -1,5 +1,7 @@
 
-
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=mail" />
+</head>
 <h1 align="center"> Hi 👋🏻, I'm JS Decoder </br> 
 </h1>
 <p align="center">🔭 I’m currently working on personal projects</p>
@@ -9,7 +11,6 @@
 <a href="https://linkedin.com/in/js-decoder" target="_blank"><img alt="" src="" style="vertical-align:center" /></a>
 <a href="https://instagram.com/js.decoder" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 <a href="mailto:js.decoder@outlook.com" target="_blank"><img alt="" src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=mail" style="vertical-align:center" /></a></p>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=mail" />
 <span class="material-symbols-outlined">
 mail
 </span>
