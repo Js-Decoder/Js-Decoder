@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋🏻, I'm JS Decoder </br> 
 </h1>
-<p align="center">🔭 I’m currently working on personal projects</p>
+<p align="center">🔭 I’m currently working on AI Smart Portfolio</p>
 <p align="center">🌱 I’m currently learning many things</p>
 
 
@@ -16,7 +16,7 @@
 
 ## Creation 👨‍💻
 
-### <img src="https://raw.githubusercontent.com/Js-Decoder/AI-Smart-Portfolio/refs/heads/main/Assets/Icon/Logo2.png" width="45px" alt="Logo"/>  AI Smart Portfolio 
+### <img src="https://raw.githubusercontent.com/Js-Decoder/AI-Smart-Portfolio/refs/heads/main/Assets/Icon/Logo2.png" width="45px" alt="Logo"/>  AI Smart Portfolio (Currently working)
 This project is about AI and its tools, It did not use any frameworks or libraries, but was written with raw CSS and JavaScript.
 This is an open source project that I created for resume and repo is available on [GitHub](https://github.com/Js-Decoder/AI-Smart-Portfolio)
 
